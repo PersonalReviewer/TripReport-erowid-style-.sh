@@ -22,9 +22,9 @@ After this it will begin asking you questions,
 ✅ Baseline template created: 2026-06-28_crack.md
 ------------------------------------------
 ⏱️  Do you want to start Live Timeline Mode? (y/n): 
-
+```
 If you say yes it will begin an erowid Style prompt, easy enough to use.
-
+```
 ⏱️  Do you want to start Live Timeline Mode? (y/n): y
 
 🚀 Live Logging Active! Script is tracking time relative to T+00:00.
