@@ -8,6 +8,7 @@ how to use?
 chmod +x autoreview.sh
 ./autoreview.sh
 ```
+```
 After this it will begin asking you questions, 
 ==========================================
     ADVANCED EXPERIENCE LOG GENERATOR     
@@ -35,9 +36,10 @@ If you say yes it will begin an erowid Style prompt, easy enough to use.
 ✨ [New Entry]: wait its coming on 
    💾 Appended: [T+00:00] wait its coming on
 ✨ [New Entry]: 
-
+```
 to end type exit. I was going to make it just click enter on empty. but i've done that accidentally before.
-  💾 Appended: [T+00:00] im so geeked. gotta end this
+```
+💾 Appended: [T+00:00] im so geeked. gotta end this
 ✨ [New Entry]: 
 ✨ [New Entry]: 
 ✨ [New Entry]: exit
@@ -47,10 +49,11 @@ Stopping live logger...
 You can open this file anytime to review or edit.
 ==========================================
 
-
+```
 :)
 
 Please enjoy! This is meant to help. The output of all looks like this 
+```
 # crack Experience Report: [Insert Title]
 
 ## Meta Information
@@ -81,7 +84,7 @@ Please enjoy! This is meant to help. The output of all looks like this
 * **Main Lesson / Summary:** 
 * **Rating (1-10):** 
 * **Side Effects / Hangover:** 
-
+```
 you can go in and do what you'd like for all of this  but its a good template imo. :) enjoy
 
 
